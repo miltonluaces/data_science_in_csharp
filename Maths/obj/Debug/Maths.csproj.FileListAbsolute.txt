@@ -1,0 +1,17 @@
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Debug\aiud.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Debug\aiud.pdb
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Debug\DynamicInterop.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Debug\RDotNet.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Debug\RDotNet.NativeLibrary.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\obj\Debug\aiud.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\obj\Debug\aiud.pdb
+D:\source\csharp\Kernel\Maths\bin\Debug\aiud.dll
+D:\source\csharp\Kernel\Maths\bin\Debug\aiud.pdb
+D:\source\csharp\Kernel\Maths\bin\Debug\DynamicInterop.dll
+D:\source\csharp\Kernel\Maths\bin\Debug\RDotNet.dll
+D:\source\csharp\Kernel\Maths\bin\Debug\RDotNet.NativeLibrary.dll
+D:\source\csharp\Kernel\Maths\obj\Debug\Maths.csprojAssemblyReference.cache
+D:\source\csharp\Kernel\Maths\obj\Debug\Maths.csproj.CoreCompileInputs.cache
+D:\source\csharp\Kernel\Maths\obj\Debug\Maths.csproj.CopyComplete
+D:\source\csharp\Kernel\Maths\obj\Debug\aiud.dll
+D:\source\csharp\Kernel\Maths\obj\Debug\aiud.pdb

@@ -1,0 +1,7 @@
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Release\aiud.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Release\aiud.pdb
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Release\DynamicInterop.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Release\RDotNet.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\bin\Release\RDotNet.NativeLibrary.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\obj\Release\aiud.dll
+C:\Users\Milton\NewDeal\Workspace\Kernel\Maths\obj\Release\aiud.pdb
